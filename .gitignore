@@ -2,3 +2,6 @@ logs
 /download
 /list
 /brick
+/raw
+/data
+.venv/
