@@ -1,0 +1,1 @@
+{"source_type": "pypi", "package": "PyTDC", "url": "https://tdcommons.ai/", "title": "Therapeutics Data Commons", "description": "22 ADMET benchmark datasets including ADME (BBB, HIA, Caco-2, CYP450, solubility, etc.) and Toxicity (AMES, hERG, DILI, LD50) endpoints", "license": "MIT", "retrieved_at": "2026-01-11"}
